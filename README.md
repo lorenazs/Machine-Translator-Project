@@ -4,6 +4,7 @@ This repo contains the implementation files of an **English to French translator
 **Technologies**:  Python, Keras and TensorFlow
 It was the second project for the Udacity's Natural Language Processing Nanodegree.
 Contents:
-* machine_translation.ipynb  the Jupyter notebooks with the code
-* machine_translation_v2.html the html version of the notebook
+* machine_translation.ipynb - the Jupyter notebooks with the code
+* machine_translation_v2.html  - the html version of the notebook
+* images - a directory with the graphic model to implement, all the images are from the original project file provided by Udacity.com
 
